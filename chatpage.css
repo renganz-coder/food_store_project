@@ -1,0 +1,12 @@
+/* .batton{
+background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png); 
+}
+     */
+
+     .batton{
+        background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 20px;
+
+    }
